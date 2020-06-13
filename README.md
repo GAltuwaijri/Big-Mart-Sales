@@ -117,7 +117,9 @@ In order to find a decent model to predict sales we performed an extensive searc
 This led to a final score of 1079.84968647.
 
 
+## License
 
+Big-Mart-Sales is Copyright © 2020 Ghaida Altuwaijri. The content of this repository is licensed under a Creative Commons Attribution License https://creativecommons.org/licenses/by/4.0/legalcode
 
 
 
